@@ -8,11 +8,11 @@ Root
 
 |-codex
 
-  |-ffmpeg (Download here: https://ffmpeg.org/download.html )
+    |-ffmpeg (Download here: https://ffmpeg.org/download.html )
   
-  |-ffplay
+    |-ffplay
   
-  |-ffprobe
+    |-ffprobe
   
 |-Output
 
